@@ -1,1 +1,1 @@
-# Java
+# Esses projetos foram desenvolvidos na faculdade.
