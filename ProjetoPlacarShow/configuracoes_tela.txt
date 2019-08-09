@@ -1,0 +1,32 @@
+------------- FORMULÁRIOS
+
+* frmPrincipal:
+
+Height: 12105
+Width: 16065
+Top.: -450
+Left: 19125
+
+* frmControle:
+Height: 11520
+Width: 19155 
+Top.: 0
+Left: 0
+
+
+------------- PAINÉIS
+
+* PanPrincipal:
+
+Height: 9555
+Width: 15360
+Top.: 1965
+Left: 19200
+
+* PanTop:
+
+Height: 2175
+Width: 15360
+Top.: -90
+Left: 19200
+

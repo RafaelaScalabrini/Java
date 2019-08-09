@@ -1,0 +1,67 @@
+- JOGADORES
+
+- Ricardo Luis Probst
+  - #07
+  - Posição: Pivô
+  - Altura: 2m
+
+- Marques Demtrius Lewis
+  - #11
+  - Posição: Pivô
+  - Altura: 2.03m
+
+- Lucas Fernandes Mariano
+  - #17
+  - Posição: Pivô
+  - Altura: 2.05m
+
+- William Fornou Drudi
+  - #19
+  - Posição: Pivô
+  - Altura: 2.02m
+  
+- Daniel Maurice Spillers
+  - #24
+  - Posição: Pivô
+  - Altura: 1.99m
+
+
+- Pedro Pucci M. Rodrigues
+  - #9
+  - Posição: Ala
+  - Altura: 1.92m
+
+- Rogério Klafke
+  - #14
+  - Posição:Ala
+  - Altura: 2.02m
+  
+- Márcio Silva Dornelles
+  - #15
+  - Posição: Ala
+  - Altura: 1.94m
+  
+- Felipe Taddei
+  - #21
+  - Posição: Ala
+  - Altura:1.91m
+  
+- André Stefanelli Martins
+  - #28
+  - Posição: Ala
+  - Altura: 1.96m
+  
+- Fernando Feres Penna
+  - #16
+  - Posição: Armador
+  - Altura: 1.89m
+
+- Vitor Alves Benite
+  - #8
+  - Posição: Armador
+  - Altura: 1.9m
+  
+- Helio Rubens Garcia Filho
+  - #10
+  - Posição: Armador
+  - Altura: 1.83
